@@ -1,0 +1,47 @@
+{
+  "name": "my-cool-theme",
+  "displayName": "my-cool-theme",
+  "description": "My Cool Themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "vtt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vT1920/my-cool-theme.git"
+  },
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-color-theme.json"
+      },
+      {
+        "label": "Hashika",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hashika-theme.json"
+      },
+      {
+        "label": "Win-98",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Windows-98-theme.json"
+      },
+      {
+        "label": "Greyout",
+        "uiTheme": "vs-dark",
+        "path": "./themes/greyout-theme.json"
+      },
+      {
+        "label": "Intellij Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intelli-j-light-theme.json"
+      }
+    ]
+  }
+}
