@@ -1,10 +1,10 @@
 {
-  "name": "my-cool-theme",
+  "name": "Cool Themes",
   "displayName": "my-cool-theme",
   "description": "My Cool Themes",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.89.0"
+    "vscode": "^1.79.0"
   },
   "categories": [
     "Themes"
